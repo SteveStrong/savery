@@ -70,7 +70,7 @@
     "react-dom": "15.3.2",
     "sinon": "1.17.6",
     "webpack": "1.13.2",
-    "webpack-dev-server": "1.16.2"
+    "webpack-dev-server": "5.2.6"
   },
   "homepage": "https://github.com/rapid7/savery#readme",
   "keywords": [
